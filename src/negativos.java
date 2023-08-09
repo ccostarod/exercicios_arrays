@@ -20,7 +20,7 @@ public class negativos {
         System.out.println("NEGATIVE NUMBERS: ");
         for (int j = 0; j < vect.length; j++) {
             if (vect[j] < 0){
-                System.out.println(vect[j]);
+                System.out.println(vect[j]+"\n");
             }
         }
 
